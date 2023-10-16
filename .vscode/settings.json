@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "MODUL 0/TPMODUL 0_ALFIRA/src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
