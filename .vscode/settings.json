@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
         "src",
-        "MODUL 0/TPMODUL 0_ALFIRA/src"
+        "MODUL 1/TPMODUL 1_ALFIRA/src",
+        "MODUL 0/TPMODUL 0_ALFIRA/src",
+        "MODUL 2/MODUL 2_ALFIRA/src"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
