@@ -9,7 +9,6 @@ public class Main {
 
         System.out.println("Enter Student name:");
         String studentName = scanner.nextLine();
-
         int studentId = 0;
         boolean validId = false;
 
